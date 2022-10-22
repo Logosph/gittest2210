@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">gittest2210</string>
     <string name="button_text">Кнопенька</string>
-    <string name="textview_text">Goodbye world!</string>
+    <string name="textview_text">Hello world!</string>
 </resources>
