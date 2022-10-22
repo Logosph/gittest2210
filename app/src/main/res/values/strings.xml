@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">gittest2210</string>
+    <string name="button_text">Button</string>
+    <string name="textview_text">Hello world!</string>
 </resources>
